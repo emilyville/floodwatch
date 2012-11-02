@@ -5,7 +5,7 @@ map of flash flooding and low water crossings in austin
 atxfloods.com or codeforamerica.github.com/floodwatch
 
 ## <a name="screenshot"></a>Screenshot
-![ATXFloods Screenshot](https://github.com/emilyville/floodwatch/blob/master/img/screenshot.png "ATXFloods")
+![ATXFloods Screenshot](https://raw.github.com/emilyville/floodwatch/master/img/screenshot.png "ATXFloods")
 
 
 ## <a name="issues"></a>Submitting an Issue
